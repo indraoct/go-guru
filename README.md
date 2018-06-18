@@ -1,7 +1,7 @@
 # go-ruangguru
 
 Path :
-{GOPATH}/src/bitbucket.org/go-ruangguru
+{GOPATH}/src/bitbucket.org/go-guru
 
 How to run :    
 ```
